@@ -1,1 +1,2 @@
 hello Git!
+This is my first Git project.
