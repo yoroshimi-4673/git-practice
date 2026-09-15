@@ -1,4 +1,8 @@
 hello Git!
+<<<<<<< HEAD
 This is my main branch version.
+=======
+This is my feature branch version.
+>>>>>>> feature
 Git and Github are connected!
 This is my first feature!
