@@ -1,3 +1,4 @@
 hello Git!
 This is my first Git project.
 Git and Github are connected!
+This is my first feature!
