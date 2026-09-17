@@ -5,3 +5,4 @@ Git and Github are connected!
 This is my first feature!
 This commit was made directly on GitHub!
 Thanks ChatGPT and Youtube for teaching me using git.
+Next: learning clone.
